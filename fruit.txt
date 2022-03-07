@@ -2,3 +2,4 @@ szilva
 alma
 körte
 barack
+szilva-barack
